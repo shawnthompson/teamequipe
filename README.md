@@ -7,3 +7,6 @@ A team of public servants in the GC lending personal compute cycles to [Folding@
 
 # Join the Team
 [Team Stats](https://stats.foldingathome.org/team/247377)
+
+# Contact Us
+[Email](teamequipegoc@gmail.com)
