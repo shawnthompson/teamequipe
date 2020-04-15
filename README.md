@@ -17,7 +17,7 @@ To join the Team Equipe GOC, configure your Folding@Home client with our Team ID
 # Team Stats
 ![team stats graph](https://folding.extremeoverclocking.com/graphs/production_day.php?s=&t=247377 "Team Stats ")
 
-[Team Stats](https://stats.foldingathome.org/team/247377)
+[Detailed Team Stats](https://stats.foldingathome.org/team/247377)
 
 # Contact Us
 [Email](mailto:teamequipegoc@gmail.com)
