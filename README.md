@@ -7,6 +7,9 @@
 # Team Equipe GOC
 A ragtag bunch of public servants in the Government of Canada lending their personal computer to [Folding@Home](https://foldingathome.org/); helping find a COVID-19 vaccine by modeling protein molecules.
 
+{% include youtubePlayer.html id="4EU7vvSvV-0" %}
+
+
 # Start Folding
 [Start Folding](https://foldingathome.org/start-folding/)
 
