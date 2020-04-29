@@ -44,6 +44,15 @@ Check out how the team is doing compared to other folding teams. You can also tr
 
 [Detailed Team Stats](https://stats.foldingathome.org/team/247377)
 
+# Community Support
+If you get stuck on the above instructions or just want to engage with the Team Equipe GOC team consider joining GCcollab and join the #covid-folding channel in GCmessage.Here is how.
+
+1. Go to [http://gccollab.ca](https://gccollab.ca)
+2. [Register On GCcollab](https://account.gccollab.ca/register/) by creating an account with your Canadian Government issued e-mail
+3. Login to [GCmessage]( with your GCcollab account
+4. join the [#covid-folding](https://message.gccollab.ca/channel/covid-folding) Channel
+5. OPTIONAL: download [Rocket Chat desktop client](https://rocket.chat/) and [connect it to GCmessage]
+
 # Contact Us
 [Email](mailto:teamequipegoc@gmail.com)
 
